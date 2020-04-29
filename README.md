@@ -1,7 +1,7 @@
 # KeoShoes 👟🥾👠
 
 
-<p align="center">
+<p>
  Um mini projeto de loja online de calçados que usa JSON server para guardar os dados dos produtos,
  obs: ela não deve ser usada em ambiente de produção, mas sim uma api real.
  <p> 
