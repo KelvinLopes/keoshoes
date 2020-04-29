@@ -37,5 +37,9 @@
 
 ### Dicas
 
-* Se baixar ou fazer o clone do repositório não se esqueça de atualizar as libs
-para o yarn, use yarn upgrade e em seguida rode o comando yarn
+* Se baixar ou fazer o clone do repositório não se esqueça de atualizar as libs para ter as atualizações mais recentes.
+
+* No yarn, use yarn upgrade e em seguida rode o comando yarn.
+
+* No npm, acesse o documento: https://docs.npmjs.com/cli-commands/update.html
+
