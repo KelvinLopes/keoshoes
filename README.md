@@ -13,7 +13,7 @@
 
 
 <p align="center"> 
-  <img src=""      width="320" heigth="320" align="center" alt=""/>
+  <img src="https://github.com/KelvinLopes/keoshoes/blob/master/video/Screen.gif"      width="800" heigth="900" align="center" alt="Tela do app KeoShoes"/>
  </p>
 
 ### Tecnologias 🔧🚙🔌
